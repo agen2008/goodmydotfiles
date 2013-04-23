@@ -1,0 +1,19 @@
+
+git clone --recursive git://github.com/jiejiesu/mydotfiles.git mydotfiles
+
+= Summary =
+My dotfile for Linux.
+
+Support ArchLinux & Ubuntu.
+
+= Arch Linux =
+
+Please run archlinux/prepare.sh First, to Install necessary Software package.
+Then goto dotfile dir, run:
+    rake install
+
+= Ubuntu Linux =
+
+Please run ubuntu/prepare.sh First, to Install necessary Software package.
+Then goto dotfile dir, run:
+    rake install
